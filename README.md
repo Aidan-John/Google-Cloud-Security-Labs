@@ -1,8 +1,6 @@
 # Google Cloud Cybersecurity Professional Labs
 
-This repository contains detailed write-ups from hands-on labs completed as part of the **Google Cloud Cybersecurity Professional Certificate**. The labs cover a wide range of cloud security topics including IAM, network security, risk management, vulnerability remediation, incident response, and secure architecture using Google Cloud Platform (GCP).
-
-Each write-up documents key actions taken, concepts learned, and insights gained throughout the certification process. These notes are intended to demonstrate applied skills and help others better understand practical cloud security workflows on GCP.
+This repository contains overviews of hands-on labs completed as part of the **Google Cloud Cybersecurity Professional Certificate**. The labs cover a wide range of cloud security topics including IAM, network security, risk management, vulnerability remediation, incident response, and secure architecture using Google Cloud Platform (GCP).
 
 ---
 
