@@ -46,9 +46,3 @@ This repository contains overviews of hands-on labs completed as part of the **G
 ## 🛡️ Certificate
 
 You can find more about the [Google Cloud Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cloud-cybersecurity-certificate) on Coursera.
-
----
-
-## 📌 Note
-
-All write-ups are for educational and demonstration purposes only.
